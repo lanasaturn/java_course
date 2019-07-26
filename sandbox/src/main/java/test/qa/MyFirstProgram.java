@@ -4,16 +4,19 @@ public class MyFirstProgram {
     public static void main(String[] args) {
         System.out.println("Hello world, little bitches");
         hello1();
-        hello2("bitch!");
+        hello2("Alex");
 
-        double side = 5;
-        System.out.println("Квадрат имеет сторону: side = "+ side +". Его площадь: S = " + area(side) );
-        double k,l;
-        k= 5;
-        l=6;
-        System.out.println("Прямоугольник имеет стороны: "+ k +" и  "+ l +". Его площадь: S = " + area(k,l) );
+        Square s = new Square(5);
+        //s.l = 5;
+
+        System.out.println("Квадрат имеет сторону: "+ s.l +". Его площадь: S = " + area(s) );
+
+        Rectangle r = new Rectangle(5,6);
+        //r.a= 5;
+        //r.b=6;
+        System.out.println("Прямоугольник имеет стороны: "+ r.a +" и  "+ r.b +". Его площадь: S = " + area(r) );
     }
-    //void - значит функция ничего не возвращает
+
     public static void hello1(){
         String smb = "World";
         System.out.println("Hello " + smb);
@@ -21,12 +24,12 @@ public class MyFirstProgram {
     public static void hello2(String smb){
         System.out.println("Hello " + smb);
     }
-    //Тут функция возвращает значение n
-    public static double area(double n){
-        return n*n;
+
+    public static double area(Square s){
+        return s.l*s.l;
     }
-    public static double area (double a, double b){
-        return a * b;
+    public static double area (Rectangle r){
+        return r.a * r.b;
     }
 
 
