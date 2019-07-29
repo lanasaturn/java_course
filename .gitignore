@@ -12,7 +12,15 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+<<<<<<< HEAD
 sandbox/build/classes/java/main/test/qa/MyFirstProgram.class
 *.class
 *.class
 *.xml
+=======
+.idea/workspace.xml
+.idea/misc.xml
+sandbox/.idea/workspace.xml
+sandbox/.idea/workspace.xml
+>>>>>>> 0e01ed0bf77af8d8ffec4a3d399ad7ad3b13d282
+.idea/compiler.xml
