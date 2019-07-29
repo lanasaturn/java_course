@@ -2,8 +2,13 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+<<<<<<< HEAD
       <module name="sandbox.main" target="1.8" />
       <module name="sandbox.test" target="1.8" />
+=======
+      <module name="sandbox.main" target="12" />
+      <module name="sandbox.test" target="12" />
+>>>>>>> 0e01ed0bf77af8d8ffec4a3d399ad7ad3b13d282
     </bytecodeTargetLevel>
   </component>
 </project>

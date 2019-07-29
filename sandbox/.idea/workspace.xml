@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db55c392-9722-49e0-8e75-36fe41d95f28" name="Default Changelist" comment="" />
+    <list default="true" id="0dde605f-2a79-484f-9ec6-b1741ba79b8b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,33 +13,13 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
-    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="WARN_ABOUT_CRLF" value="false" />
-    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
-  <component name="ProjectId" id="1OYJ7Bkqgoj89X548KJA6ShYocN" />
+  <component name="ProjectId" id="1Og1R5LO3Bvs1X87sV5zGo5oj7Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="test.qa" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -78,11 +58,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="db55c392-9722-49e0-8e75-36fe41d95f28" name="Default Changelist" comment="" />
-      <created>1564148426413</created>
+      <changelist id="0dde605f-2a79-484f-9ec6-b1741ba79b8b" name="Default Changelist" comment="" />
+      <created>1564384415394</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564148426413</updated>
+      <updated>1564384415394</updated>
     </task>
     <servers />
   </component>
@@ -96,10 +76,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/.." />
-    </ignored-roots>
   </component>
 </project>
